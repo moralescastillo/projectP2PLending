@@ -1,4 +1,4 @@
-# projectKaB2
+# projectP2PLending
 
 P2P Lending Platform
 
